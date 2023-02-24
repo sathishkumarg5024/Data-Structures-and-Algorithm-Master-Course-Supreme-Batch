@@ -85,7 +85,34 @@ else if(b>a && b> c) print "b is max"
 else print "c is max"
 
 
+// counting 1 to n
+read n 
+i =1;
+if i>n exit
+else
+print i 
+i++
 
+//add n numbers from the user
+read n 
+read the numbers 
+i=1 ,sum =0
+if i>n then print sum
+else
+read num i.e the numbers 
+sum =sum + num 
+i++
+
+
+
+// printing odd numbers from 1 to n
+
+read n 
+i=1
+if(i>n) then exit
+else
+print i
+i+=2
 
 
 */

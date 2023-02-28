@@ -52,4 +52,5 @@ int main(){
     int n;
     if(cin >> n)
     cout << "Sathish";
+    cout << "";
 }
